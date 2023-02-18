@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygon Triangulation", "Polygon Triangulation\Polygon Triangulation.csproj", "{C1E3E66D-94A9-47A7-9B25-8DD23C429662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using_Monotone", "using_Monotone\using_Monotone.csproj", "{6CEB182E-8A35-4AB9-95B5-7B9CD7C3EAE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C1E3E66D-94A9-47A7-9B25-8DD23C429662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E3E66D-94A9-47A7-9B25-8DD23C429662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E3E66D-94A9-47A7-9B25-8DD23C429662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEB182E-8A35-4AB9-95B5-7B9CD7C3EAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEB182E-8A35-4AB9-95B5-7B9CD7C3EAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEB182E-8A35-4AB9-95B5-7B9CD7C3EAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEB182E-8A35-4AB9-95B5-7B9CD7C3EAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
